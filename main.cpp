@@ -3,7 +3,7 @@
 #include <iostream>
 #include <locale>
 using namespace std;
-
+// Программа учебная
 int main() {
 	int a;
 	int b;
