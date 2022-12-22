@@ -13,5 +13,7 @@ int main() {
 	cin >> a;
 	cin >> b;
 	
+	printf("%u \n", a + b);
+	
 	return 0;
 }
